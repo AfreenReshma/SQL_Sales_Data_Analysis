@@ -6,7 +6,7 @@
 
 ## **Project Overview**
 
-I have worked on analyzing a dataset of sales_data records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, trends using MYSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
+I have worked on analyzing a dataset of sales_data records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, trends using MYSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.Additionally, I created a comprehensive report on this dataset by exporting SQL data and visualizing key insights using Power BI.
 
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
@@ -72,12 +72,13 @@ _ Clean and preprocess real-world datasets for analysis.
 _ Use advanced SQL techniques, including window functions, subqueries, and joins.
 _ Conduct in-depth business analysis using SQL.
 _ Optimize query performance and handle large datasets efficiently.
+_Create visual reports using Power BI for a deeper analysis of the dataset.
 
 ---
 
 ## **Conclusion**
 
-This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving Custumer retention project provides valuable insights into operational challenges and solutions.
+This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to uncovering operational challenges, this project provides valuable insights into business decision-making processes. The Power BI report further strengthens the analysis, presenting key metrics in a visually appealing format.
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision making
 
