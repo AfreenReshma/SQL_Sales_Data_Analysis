@@ -53,6 +53,11 @@ Key business problems identified:
 4. High customer acquisition costs with a low customer retention rate.
 
 ---
+Below is a visual representation of the project's architecture:
+
+![sales_data](https://github.com/user-attachments/assets/5855c4d3-fd38-4561-8983-ab7252a40ae5)
+![Sales_data](https://github.com/user-attachments/assets/9eb94cdb-b72c-4b83-8fe1-293dd653325d)
+---
 
 ## **Objectives**
 
